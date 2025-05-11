@@ -1,7 +1,7 @@
 public class No {
     public char caractere;
-    public No ponto;  // Equivale ao filho esquerdo (.)
-    public No traco;  // Equivale ao filho direito (-)
+    public No ponto;  
+    public No traco;  
 
     public No() {
         this.caractere = ' ';
