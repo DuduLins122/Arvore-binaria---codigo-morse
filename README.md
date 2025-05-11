@@ -33,8 +33,8 @@ A árvore permite:
 ```java
 arvore.inserir("...", 'S');
 arvore.inserir("---", 'O');
-System.out.println(arvore.buscar("..."));         // Saída: S
-System.out.println(arvore.decodificarFrase("... --- ...")); // Saída: SOS
+System.out.println(arvore.buscar("..."));        
+System.out.println(arvore.decodificarFrase("... --- ...")); 
 ```
 
 ---
