@@ -13,10 +13,10 @@ A árvore permite:
 
 ## Regras de Implementação
 
-- ❌ Não foi utilizado nenhum tipo de array, lista, StringBuilder ou estruturas prontas;
-- ✅ Apenas `String`, `int`, `float` foram usados, conforme especificações;
-- ✅ Uso de `.length()` apenas em manipulação de `String`;
-- ❌ Não utilizamos `throws`, `exceptions` personalizados ou estruturas de tratamento avançadas;
+- Não foi utilizado nenhum tipo de array, lista, StringBuilder ou estruturas prontas;
+- Apenas `String`, `int`, `float` foram usados, conforme especificações;
+- Uso de `.length()` apenas em manipulação de `String`;
+- Não utilizamos `throws`, `exceptions` personalizados ou estruturas de tratamento avançadas;
 
 ---
 
@@ -50,11 +50,9 @@ System.out.println(arvore.decodificarFrase("... --- ...")); // Saída: SOS
 
 ## Participantes
 
-Todos os membros do grupo devem inserir seu nome aqui.
+- Carlos Jeronimo
+-  Guilherme Oliveira 
+-  Miguel Rezende
+-  Marcelo Eduardo
 
----
 
-## Link do Projeto
-
-- 🔗 GitHub: (adicione aqui o link do repositório)
-- 🎥 YouTube: (adicione aqui o link do vídeo explicativo)
